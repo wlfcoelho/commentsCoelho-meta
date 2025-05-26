@@ -1,0 +1,6 @@
+[submodule "microservices/moderarionService"]
+	path = microservices/moderarionService
+	url = https://github.com/wlfcoelho/moderationService.git
+[submodule "microservices/commentService"]
+	path = microservices/commentService
+	url = https://github.com/wlfcoelho/commentService.git
